@@ -1,1 +1,2 @@
 emqx/emqx:5.3.2
+prom/mysqld-exporter
