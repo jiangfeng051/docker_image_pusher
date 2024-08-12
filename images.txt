@@ -5,3 +5,4 @@ apache/rocketmq:5.1.4
 influxdb:2.7.4-alpine
 emqx/emqx:5.7.1
 emqx/emqx:5.6.1
+rancher/mirrored-jettech-kube-webhook-certgen:v1.5.1
