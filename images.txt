@@ -10,3 +10,4 @@ golang:1.15
 golang:1.17
 directxman12/k8s-prometheus-adapter-amd64:v0.7.0
 mysql:5.7.19
+apache/druid:28.0.1
