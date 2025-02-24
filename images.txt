@@ -1,14 +1,2 @@
-emqx/emqx:5.3.2
-prom/mysqld-exporter
-prom/mysqld-exporter:v0.12.1
-apache/rocketmq:5.1.4
-influxdb:2.7.4-alpine
-emqx/emqx:5.7.1
-emqx/emqx:5.6.1
-rancher/mirrored-jettech-kube-webhook-certgen:v1.5.1
-golang:1.15
-golang:1.17
-directxman12/k8s-prometheus-adapter-amd64:v0.7.0
-mysql:5.7.19
-apache/druid:28.0.1
 apache/skywalking-swck:v0.6.1
+anjia0532/kubebuilder.kube-rbac-proxy:v0.8.0
