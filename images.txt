@@ -1,2 +1,1 @@
-apache/skywalking-swck:v0.6.1
-anjia0532/kubebuilder.kube-rbac-proxy:v0.8.0
+milvusdb/milvus:v2.5.4
