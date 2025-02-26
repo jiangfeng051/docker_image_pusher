@@ -1,1 +1,2 @@
-zilliz/attu:v2.5.2
+ghcr.io/stakater/reloader:v1.0.82
+seatunnel-dependency:2.3.9
