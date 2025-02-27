@@ -1,1 +1,1 @@
-percona/pmm-server:latest
+percona/pmm-server:2
