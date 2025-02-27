@@ -1,2 +1,1 @@
-ghcr.io/stakater/reloader:v1.0.82
-seatunnel-dependency:2.3.9
+apache/seatunnel:2.3.9
