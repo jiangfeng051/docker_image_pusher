@@ -1,1 +1,1 @@
-apache/seatunnel:2.3.9
+rancher/rancher-webhook:v0.2.1
