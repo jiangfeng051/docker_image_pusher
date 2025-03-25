@@ -1,1 +1,1 @@
-bitnami/kafka:3.5.1-debian-11-r25
+kubesphere/tower-extension:v1.0.0
