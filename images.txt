@@ -1,1 +1,1 @@
-kubesphere/tower-extension:v1.0.0
+dushixiang/kafka-map:v1.4.0
