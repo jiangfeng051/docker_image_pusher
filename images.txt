@@ -1,1 +1,1 @@
-dushixiang/kafka-map:v1.4.0
+dushixiang/kafka-map:latest
