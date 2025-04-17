@@ -1,1 +1,1 @@
-dushixiang/kafka-map:latest
+alpine:3.9.6
