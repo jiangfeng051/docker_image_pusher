@@ -1,1 +1,2 @@
-apache/doris:operator-latest
+apache/doris:doris:be-2.1.8
+apache/doris:doris:be-2.1.9
