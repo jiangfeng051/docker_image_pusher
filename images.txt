@@ -1,1 +1,3 @@
-selectdb/alpine:latest
+mysql:5.7
+chainmakerofficial/management-backend:v2.3.4
+chainmakerofficial/management-web:v2.3.4
