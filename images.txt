@@ -1,1 +1,1 @@
-rancher/mirrored-calico-kube-controllers:v3.19.2
+node:22.16.0
