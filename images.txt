@@ -1,1 +1,2 @@
-zookeeper:3.8
+docker.io/bitnami/postgresql:11.14.0-debian-10-r22
+busybox:1.32
