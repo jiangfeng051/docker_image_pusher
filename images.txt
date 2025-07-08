@@ -1,2 +1,2 @@
-docker.io/bitnami/postgresql:11.14.0-debian-10-r22
-busybox:1.32
+curlimages/curl:7.76.1
+sonarqube:9.8.0-community
