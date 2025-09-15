@@ -1,1 +1,1 @@
-jenkins/jenkins:2.527-jdk21
+kiwigrid/k8s-sidecar:1.30.7
