@@ -1,2 +1,1 @@
-curlimages/curl:7.76.1
-sonarqube:9.8.0-community
+docker pull jenkins/jenkins:2.527-jdk21
