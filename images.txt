@@ -1,1 +1,1 @@
-jenkins/inbound-agent:4.3-4
+jenkins/inbound-agent:3327.v868139a_d00e0-7
