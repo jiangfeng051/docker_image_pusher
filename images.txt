@@ -1,1 +1,1 @@
-openjdk:26-ea-17-jdk-slim
+openjdk:17-ea-17-jdk-slim
