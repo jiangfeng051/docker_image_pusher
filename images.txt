@@ -1,1 +1,1 @@
-jenkins/inbound-agent:3355.v388858a_47b_33-3
+gcr.io/kaniko-project/executor:v1.24.0
