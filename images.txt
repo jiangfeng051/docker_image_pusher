@@ -1,2 +1,2 @@
-bitnami/mysql:8.0.32-debian-11-r14
+nacos/nacos-server:v3.1.1
 
