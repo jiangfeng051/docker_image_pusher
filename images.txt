@@ -1,2 +1,2 @@
-xuxueli/xxl-job-admin:3.3.2
+aiotceo/kaniko-executor:v1.6.0
 
