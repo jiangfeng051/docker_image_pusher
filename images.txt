@@ -1,1 +1,1 @@
-dhi.io/clickhouse-server:26.2-debian13-dev
+docker pull clickhouse/clickhouse-server:26.2
