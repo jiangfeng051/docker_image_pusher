@@ -1,1 +1,1 @@
-docker pull clickhouse/clickhouse-server:26.2
+clickhouse/clickhouse-server:26.2
