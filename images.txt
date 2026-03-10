@@ -1,1 +1,1 @@
-ghcr.io/clickhouse/clickhouse-operator:v0.0.1
+clickhouse/clickhouse-keeper:26.2
