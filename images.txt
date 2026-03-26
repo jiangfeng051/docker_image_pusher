@@ -1,1 +1,1 @@
-metabase/metabase:v0.59.2.5
+docker.io/altinity/clickhouse-operator:0.26.2
