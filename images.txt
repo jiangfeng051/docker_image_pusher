@@ -1,1 +1,2 @@
-bladex/sentinel-dashboard:1.8.9
+ghcr.io/jippi/docker-pritunl
+
