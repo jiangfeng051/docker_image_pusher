@@ -1,1 +1,1 @@
-registry.gitlab.com/gitlab-org/build/cng/cfssl-self-sign:v18.11.2
+registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v18.11.2
