@@ -1,1 +1,1 @@
-dataease/sqlbot:v1.9.0
+docker.elastic.co/elasticsearch/elasticsearch:8.19.17
