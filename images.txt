@@ -1,1 +1,1 @@
-docker.elastic.co/elasticsearch/elasticsearch:8.19.17
+docker.elastic.co/eck/eck-operator:3.4.1
