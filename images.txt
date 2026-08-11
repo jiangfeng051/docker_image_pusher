@@ -1,1 +1,2 @@
-milvusdb/milvus:v3.0-beta
+docker.io/pgsty/minio:RELEASE.2026-03-25T00-00-00Z
+docker.io/infiniflow/infinity:v0.7.0
