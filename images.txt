@@ -1,1 +1,1 @@
-natsio/nats-server-config-reloader:0.23.0
+ghcr.io/cloudnative-pg/cloudnative-pg:1.23.1
