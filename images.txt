@@ -1,1 +1,6 @@
-infiniflow/ragflow:v0.26.4
+o2cr.ai/openobserve/openobserve:v0.92.2
+o2cr.ai/openobserve/openobserve-enterprise:v0.92.2
+o2cr.ai/openobserve/report-server:v0.11.2-88574bc
+public.ecr.aws/docker/library/busybox:1.36.1
+ghcr.io/openobserve/o2-ai:v0.92.0
+
