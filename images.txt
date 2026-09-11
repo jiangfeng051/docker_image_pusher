@@ -1,3 +1,4 @@
-public.ecr.aws/docker/library/busybox:1.36.1
-ghcr.io/openobserve/o2-ai:v0.92.0
-
+natsio/nats-box:0.19.7
+natsio/prometheus-nats-exporter:0.20.1
+nats:2.14.2-alpine
+openfga/openfga:latest
