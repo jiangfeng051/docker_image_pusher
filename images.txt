@@ -1,1 +1,1 @@
-busybox:latest
+ghcr.io/open-telemetry/opentelemetry-operator/autoinstrumentation-java:2.31.1
