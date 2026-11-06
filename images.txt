@@ -1,2 +1,1 @@
-ghcr.io/open-telemetry/opentelemetry-collector-releases/opentelemetry-collector-k8s:0.160.0
-ghcr.io/open-telemetry/opentelemetry-operator/opentelemetry-operator:0.160.0
+busybox:latest
