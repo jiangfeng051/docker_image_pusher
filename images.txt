@@ -1,1 +1,1 @@
-python:3.14.7-alpine3.24
+otel/opentelemetry-collector-contrib:0.161.0
